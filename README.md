@@ -37,6 +37,6 @@ GPIO 21 -    SDA
 GPIO 22 -    SCL
 
 
-PCM5102 |    KT0803L
+PCM5102 |    KT0803L (Analogue Audio)
 
 AUX     -    AUX
