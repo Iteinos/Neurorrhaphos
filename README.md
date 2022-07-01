@@ -40,3 +40,12 @@ GPIO 22 -    SCL
 PCM5102 |    KT0803L (Analogue Audio)
 
 AUX     -    AUX
+
+
+**References:**
+
+KT0803L library:    
+https://github.com/xantorohara/XantoKT0803
+
+ESP32 Bluetooth Audio I2S:
+https://github.com/pschatzmann/ESP32-A2DP
