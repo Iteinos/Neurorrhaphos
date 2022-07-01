@@ -12,3 +12,26 @@ ESP32 Bluetooth Stereo Audio transliterator to FM Radio
 4. (not mandatory) VHF-band Antenna and SMA Socket
 
 5. (not mandatory) 1602 LCD Screen & I2C Converter Module
+
+
+**Connexion:**
+
+ESP32   |    PCM5102 (I2S bus)
+
+GPIO 26 -    BCK 
+
+GPIO 25 -    LRCK
+
+GPIO 18 -    DIN 
+
+ESP32   |    KT0803L (I2C bus)
+
+GPIO 21 -    SDA
+
+GPIO 22 -    SCL
+
+ESP32   |    LCD 1602 (I2C bus)
+
+GPIO 21 -    SDA
+
+GPIO 22 -    SCL
