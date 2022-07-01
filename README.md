@@ -44,8 +44,8 @@ AUX     -    AUX
 
 **References:**
 
-KT0803L library:    
+KT0803L Library:    
 https://github.com/xantorohara/XantoKT0803
 
-ESP32 Bluetooth Audio I2S:
+ESP32 Bluetooth Audio I2S Library:      
 https://github.com/pschatzmann/ESP32-A2DP
