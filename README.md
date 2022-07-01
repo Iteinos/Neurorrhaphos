@@ -35,3 +35,8 @@ ESP32   |    LCD 1602 (I2C bus)
 GPIO 21 -    SDA
 
 GPIO 22 -    SCL
+
+
+PCM5102 |    KT0803L
+
+AUX     -    AUX
