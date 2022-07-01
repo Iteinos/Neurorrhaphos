@@ -22,7 +22,7 @@ GPIO 26 -    BCK
 
 GPIO 25 -    LRCK
 
-GPIO 18 -    DIN 
+GPIO 27 -    DIN 
 
 ESP32   |    KT0803L (I2C bus)
 
