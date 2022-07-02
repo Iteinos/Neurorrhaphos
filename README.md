@@ -1,7 +1,7 @@
 # [INUTILE] Neurorrhaphos
 ESP32 Bluetooth Stereo Audio transliterator to FM Radio 
 
-**ATTENTION:**    FM Radio Module KT0803L is not yielding desired performances (i.e. completely unresponsive). Project halted indefinately. 
+**ATTENTION:**    FM Radio Module KT0803L is not yielding desired performances (i.e. I2C connexion normal, no discernable FM output). Project halted indefinately. 
 
 **Hardware Requirements:**
 
